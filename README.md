@@ -40,5 +40,5 @@ If you want basic styling, you can include `example-styles.css` using a service 
 rawgithub.com.
 
 ```html
-<link rel="stylesheet" href="//rawgithub.com/Caged/d3-tip/master/examples/example-styles.css">
+<link rel="stylesheet" href="//rawgithub.com/Granddevv/React-d3-tip/master/examples/example-styles.css">
 ```
